@@ -9,10 +9,10 @@
 
 # case
 
-使用火狐 将 [Core Technologies](https://docs.spring.io/spring-framework/docs/5.0.9.RELEASE/spring-framework-reference/core.html) 保存为纯文本(不含html标签) , 统计词频，以便  和快速熟悉关键字 和 背单词
+使用火狐 将 [spring-framework Core Technologies](https://docs.spring.io/spring-framework/docs/5.0.9.RELEASE/spring-framework-reference/core.html) 保存为纯文本(不含html标签) , 统计词频，以便  和快速熟悉关键字 和 背单词
 
-基础单词 : the 4205 to 1943 a  1821 of 1514
-相关单词 : bean 650 Spring 634 class 398 method 381 configuration 221
+基础单词 : the 4205 to 1943 a  1821 of 1514    
+相关单词 : bean 650 Spring 634 class 398 method 381 configuration 221    
 
 # Solution  
 
